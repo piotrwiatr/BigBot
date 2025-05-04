@@ -1,0 +1,25 @@
+{
+  "name": "bigbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrwiatr/BigBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrwiatr/BigBot/issues"
+  },
+  "homepage": "https://github.com/piotrwiatr/BigBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.1",
+    "dotenv": "^16.5.0",
+    "lowdb": "^7.0.1"
+  }
+}
