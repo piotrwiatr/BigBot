@@ -143,7 +143,7 @@ client.on("messageCreate", async (msg) => {
         const currentTime = Date.now();
 
         if (currentTime - user.lastBeg <= delay) {
-            msg.reply(`You cannot claim so soon. Try again in:  ${Math.floor((user.lastBeg + delay - currentTime) / 1000)} seconds.`);
+            msg.reply(`You cannot beg so soon. Try again in:  ${Math.floor((user.lastBeg + delay - currentTime) / 1000)} seconds.`);
             return;
         }
 

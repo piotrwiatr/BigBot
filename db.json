@@ -2,9 +2,15 @@
   "users": [
     {
       "userId": "898280573401980928",
-      "lastClaim": 1746397124427,
-      "lastBeg": 1746397820657,
-      "balance": 0
+      "lastClaim": 1746550661537,
+      "lastBeg": 1746553820828,
+      "balance": 1
+    },
+    {
+      "userId": "1021380320773283880",
+      "lastClaim": 1746553705027,
+      "lastBeg": 1746553719345,
+      "balance": 1
     }
   ]
 }
